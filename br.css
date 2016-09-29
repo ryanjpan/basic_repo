@@ -1,3 +1,21 @@
 body{
 	background-color: gray;
 }
+
+p{
+	color: lightblue;
+	border-style: solid;
+	border-color: white;
+	width: 400px;
+}
+
+h1{
+	color: lightblue;
+	border-style: solid;
+	border-color: white;
+	width: 400px;
+}
+
+img{
+	border-style: inset;
+}
